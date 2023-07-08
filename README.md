@@ -1,5 +1,6 @@
 # Dice-Game
 This is a simple web-based 2-Player dice game built using HTML, CSS, and JavaScript.
+<h1> Play it here ➡️ https://ums91.github.io/Dice-Game/ </h1>
 <h1> Introduction </h1>
 <p>This is a simple web-based dice game built using HTML, CSS, and JavaScript. The game allows two players to take turns rolling a pair of dice, and the player with the highest total wins the round. The game keeps track of the score and declares the winner at the end.
 </p>
