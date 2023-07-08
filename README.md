@@ -3,7 +3,7 @@ This is a simple web-based 2-Player dice game built using HTML, CSS, and JavaScr
 <h1> Introduction </h1>
 <p>This is a simple web-based dice game built using HTML, CSS, and JavaScript. The game allows two players to take turns rolling a pair of dice, and the player with the highest total wins the round. The game keeps track of the score and declares the winner at the end.
 </p>
-diceSS.png
+<img src="diceSS.png" alt="Screenshot of the dice-game">
 <h2> Technologies Used: </h2>
 <ul> 
 <li>HTML</li>
@@ -31,14 +31,14 @@ diceSS.png
 <li>Simple and intuitive interface.</li>
 </ul>
 
-Contribution
-Contributions are welcome! If you have any suggestions, bug reports, or improvements, please open an issue or submit a pull request.
+<h2>Contribution:</h2>
+<p> Contributions are welcome! If you have any suggestions, bug reports, or improvements, please open an issue or submit a pull request.</p>
 
-License
-This project is licensed under the MIT License.
+<h2>License:</h2>
+<p> This project is licensed under the MIT License.</p>
 
-Acknowledgements
-This project was inspired by online dice games and was created as a learning exercise for HTML, CSS, and JavaScript.
+<h2>Acknowledgements:</h2>
+<p> This project was inspired by online dice games and was created as a learning exercise for HTML, CSS, and JavaScript.</p>
 
-Author
-Ums91
+<h2>Author:</h2>
+<p> Ums91</p>
