@@ -15,7 +15,7 @@ This is a simple web-based 2-Player dice game built using HTML, CSS, and JavaScr
 <h2>How to Play:</h2>
 <ul> 
 <li>Clone the repository or download the source code.</li>
-<li>Open the index.html file in a web browser.</li>
+<li>Open the index.html file in a web browser or visit https://ums91.github.io/Dice-Game/ to Play</li>
 <li>The game will start automatically.</li>
 <li>Edit names for Player1 & Player2 (optional).</li>
 <li>Roll the Dice.</li> 
