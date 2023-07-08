@@ -15,13 +15,13 @@ This is a simple web-based 2-Player dice game built using HTML, CSS, and JavaScr
 <h2>How to Play:</h2>
 <ul> 
 <li>Clone the repository or download the source code.</li>
-<li>Open the index.html file in a web browser or visit https://ums91.github.io/Dice-Game/ to Play</li>
+<li>Open the index.html file in a web browser or visit https://ums91.github.io/Dice-Game/ to Play.</li>
 <li>The game will start automatically.</li>
 <li>Edit names for Player1 & Player2 (optional).</li>
 <li>Roll the Dice.</li> 
 <li>The dice will display random numbers between 1 and 6.</li>
-<li>Player 1's and 2's score will update accordingly.</li>
-<li>The game will keep track of the score and declare the winner at the end of the round.</li>
+<li>Player 1's and 2's dice numbers will update accordingly.</li>
+<li>The game will declare the winner the for each Roll of the Dice.</li>
 <li>To play another round, simply refresh the page.</li>
 </ul>
 <h2> Features</h2>
